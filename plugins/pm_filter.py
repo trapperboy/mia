@@ -370,7 +370,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🤖 join group', url='https://t.me/betterfilter')
             ],[
             InlineKeyboardButton('🎭tamil movies 🎭', url='https://t.me/moviesplusin'),
-
             InlineKeyboardButton('🔰series channel🔰', url='https://t.me/betterfilter')
 
             ],[
