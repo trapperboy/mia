@@ -26,6 +26,9 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('JOIN GROUP ', url='https://t.me/bettermalayalam')
             ],[
+            InlineKeyboardButton('🎭tamil movies 🎭', url='https://t.me/moviesplusin'),
+            InlineKeyboardButton('🔰series channel🔰', url='https://t.me/seriescornern')
+            ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
         ]]
