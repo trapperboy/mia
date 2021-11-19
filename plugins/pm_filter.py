@@ -367,7 +367,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ Add only to admin ➕', url=f'http://t.me/{EVAMARIABOT.username}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 join group', url=https://t.me/bettermalayalam')
+            InlineKeyboardButton('🤖 join group', url='https://t.me/bettermalayalam')
             ],[
             InlineKeyboardButton('🎭tamil movies 🎭', url='https://t.me/moviesplusin'),
             InlineKeyboardButton('🔰series channel🔰', url='https://t.me/seriescornern')
